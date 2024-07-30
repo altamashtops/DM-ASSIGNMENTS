@@ -1,0 +1,34 @@
+17DIPLOMA IN DIGITAL MARKETING
+		TERM-1
+	       MODULE-1
+1) https://www.flipkart.com/
+2) https://www.irctc.co.in/
+3) https://www.johnlewispartnership.co.uk/
+4) https://www.uidai.gov.in/
+5) https://www.allegro.pl/
+
+SR.NO	   SERVER	 SUBDOMAIN	  DOMAIN	 TOP LEVEL DOMAN
+                                                              (TLD)
+01	    https	  www		Flipkart		.com	
+02	    https	  www		irctc			.co.in
+03	    https	  www	   johnlewispartnership		.co.uk
+04	    https	  www		uidia			.gov.in
+05	    https	  www		Allegro			.pl
+
+1.  What is HTTPS/SSL update ?
+    Hyper text transfer protocol secure
+    secure sockets layer. It enables protected
+    communication over the computer network.
+
+2. LIST OUT 10 FAMOUS BROWSERS USED WORLDWIDE
+
+	*Microsoft edge
+	*Google chrome
+	*Safari
+	*UC browser
+	*Fire Fox
+	*Vivaldi
+	*Brave
+	*Internet Explorer
+	*Epic
+	*Toe browser
